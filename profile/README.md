@@ -34,11 +34,12 @@ Automation alone is not abuse. PALISADE combines bounded behavioral and server-s
 Start with the [project overview](https://github.com/palisade-bot-defense/palisade#readme), then read the [roadmap](https://github.com/palisade-bot-defense/palisade/blob/main/ROADMAP.md), [evaluation protocol](https://github.com/palisade-bot-defense/palisade/blob/main/docs/EVALUATION.md), and [privacy boundaries](https://github.com/palisade-bot-defense/palisade/blob/main/docs/privacy/DATA_BOUNDARIES.md).
 
 > [!IMPORTANT]
-> PALISADE does not claim perfect bot detection or an unsolvable challenge. The current prototype must begin in shadow mode and has no production-supported release. The final software license, contributor agreement, rights-holder notice, and trademark policy are still pending; the repository currently grants no software license.
+> PALISADE does not claim perfect bot detection or an unsolvable challenge. The current prototype must begin in shadow mode and has no production-supported release.
+
+The PALISADE core is licensed under **GNU AGPL-3.0-only**. The browser sensor is licensed separately under **Apache-2.0**. The repository's licensing map defines the exact scope; software licenses do not grant trademark rights.
 
 ## Participate safely
 
-Design discussion and defensive research are welcome through the repository's issue templates. Substantive code contributions remain paused until the license and contributor agreement are finalized. Never attach production traffic, personal data, credentials, or bypass details for real installations to a public issue.
+Design discussion and defensive research are welcome through the repository's issue templates. Substantive external code contributions remain paused until the separate contributor agreement is active. Never attach production traffic, personal data, credentials, or bypass details for real installations to a public issue.
 
 Report vulnerabilities privately through [GitHub Security Advisories](https://github.com/palisade-bot-defense/palisade/security/advisories/new). See the full [security policy](https://github.com/palisade-bot-defense/palisade/security/policy) and [contribution status](https://github.com/palisade-bot-defense/palisade/blob/main/CONTRIBUTING.md).
-
